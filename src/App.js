@@ -1,7 +1,6 @@
 import React from "react";
 import { Form, Button } from "semantic-ui-react";
 import ItemForm from "./component/ItemForm";
-import { relative } from "path";
 import "./App.css";
 
 class App extends React.Component {
